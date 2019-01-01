@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+option go_package = "github.com/cuongnd9/go-grpc/api";
+
+package Todo;
+
+message ToDo {
+  uint32 id = 1;
+  string title = 2;
+  string description = 3;
+}
+
+message CreateRequest {
+  ToDo toDo = 2;
+}
+
+message CreateResponse {
+  uint32 id = 2;
+}
+
+message ReadRequest {
+  uint32 id = 2;
+}
+
+message ReadResponse {
+  ToDo toDo = 2;
+}
+
+message UpdateRequest {
+  ToDo toDo = 2;
+}
+
+message UpdateResponse {
+  uint32 updated = 2;
+}
+
+message DeleteRequest {
+  uint32 id = 2;
+}
+
+message DeleteResponse {
+  uint32 deleted = 2;
+}
+
+message ReadAllRequest {
+  string api = 1;
+}
+
+message ReadAllResponse {
+  string api = 1;
+  repeated ToDo toDos = 2;
+}
