@@ -95,3 +95,8 @@ cd cmd/client && go run main.go
 
 MIT © [Cuong Nguyen](https://github.com/cuongnd9/) 2024
 
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Action beats perfection.
+🐯
+<!-- INSPIRATIONAL_QUOTE_END -->
