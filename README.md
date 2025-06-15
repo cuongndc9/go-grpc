@@ -97,5 +97,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongnd9/) 2024
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->
