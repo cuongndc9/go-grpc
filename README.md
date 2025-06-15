@@ -97,5 +97,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongnd9/) 2024
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 <!-- INSPIRATIONAL_QUOTE_END -->
