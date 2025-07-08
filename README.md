@@ -97,5 +97,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongnd9/) 2024
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->
