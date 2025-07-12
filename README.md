@@ -97,5 +97,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongnd9/) 2024
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Life is what happens to you while you're busy making other plans." - John Lennon
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
